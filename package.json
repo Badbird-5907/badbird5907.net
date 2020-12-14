@@ -1,0 +1,19 @@
+{
+  "name": "badbord6907-net",
+  "version": "0.1.0",
+  "description": "Badbird5907's website",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "author": "Badbird5907",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.16.3",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
